@@ -190,7 +190,13 @@ Comparison of items and MRP across different outlet types.
 - Data Presentation
 
 ---
+## Internship Documentation
 
+I was selected for the **Data Visualization Intern** role at **Sysslan IT Solutions**.
+
+The internship offer letter is included in this repository:
+
+📄 [View Internship Offer Letter](Sysslan_Internship_Offer_Letter_Santoshi_Pandalwad.pdf)
 ## Dashboard Preview
 
 ![Big Mart Sales Analysis Dashboard](Dashboard.png)
